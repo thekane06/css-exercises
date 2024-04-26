@@ -1,3 +1,8 @@
-.Prova {
-    background-color: aquamarine;
+div{
+    background-color: red;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
 }
+
